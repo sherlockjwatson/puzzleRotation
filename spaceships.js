@@ -74,11 +74,15 @@ function handleKeyEnter() {
     
     // current progress determines if spaceships are shown
     if (currentProgress == 33){
-      document.getElementById("SpaceshipYellow").style.display = 'block'
+      document.getElementById("SpaceshipYellow").style.display = 'block';
+      document.getElementById("SpaceshipYellow").style.transform = `rotate(0deg)`;
+      currentRotation = 0;
     };
   
     if (currentProgress == 66){
-      document.getElementById("SpaceshipPurple").style.display = 'block'
+      document.getElementById("SpaceshipPurple").style.display = 'block';
+      document.getElementById("SpaceshipPurple").style.transform = `rotate(0deg)`;
+      currentRotation = 0;
     };
 
     
