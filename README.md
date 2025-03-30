@@ -1,6 +1,6 @@
 _werkt niet op telefoon/tablet_
 
-https://sherlockjwatson.github.io/puzzletRotation
+https://sherlockjwatson.github.io/puzzleRotation/
 
 Bovenstaande link begeleidt je naar de puzzle
 
