@@ -5,4 +5,5 @@ https://sherlockjwatson.github.io/puzzleRotation/
 Bovenstaande link begeleidt je naar de puzzle
 
 -> Maak gebruik van de pijltjes toetsen links en rechts om de juiste hoek te vinden 
+
 -> Druk op enter om de raket vast te zetten
